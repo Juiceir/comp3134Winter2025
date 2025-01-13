@@ -1,0 +1,2 @@
+traceroute to 159.89.124.80 (159.89.124.80), 30 hops max, 60 byte packets
+ 1  lamponubuntu2204-s-1vcpu-1gb-tor1-01 (159.89.124.80)  0.045 ms  0.008 ms  0.006 ms

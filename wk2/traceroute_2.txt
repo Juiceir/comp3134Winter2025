@@ -1,0 +1,13 @@
+Tracing route to 159.89.124.80 over a maximum of 30 hops
+
+  1    <1 ms    <1 ms    <1 ms  192.168.68.1
+  2     *        *        *     Request timed out.
+  3     3 ms     3 ms     3 ms  ae21-20.tor-cor-bdr04.distributel.net [206.80.255.14]
+  4     3 ms     3 ms     2 ms  ae0-0.tor-cor-bdr03.distributel.net [206.80.255.6]
+  5     2 ms     3 ms     3 ms  digitalocean-tor1-edge1.ip4.torontointernetxchange.net [206.108.35.171]
+  6     *        *        *     Request timed out.
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9     5 ms     4 ms     4 ms  159.89.124.80
+
+Trace complete.
