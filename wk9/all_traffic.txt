@@ -1,0 +1,71 @@
+tcpdump -i any -w all_traffic_20250303_410pm.pcap
+
+�ò�^B^@^D^@^@^@^@^@^@^@^@^@^@^@^D^@^T^A^@^@�^[�g�=^N^@�^@^@^@�^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F��q�&^E^@^@E^P^@l
+�@^@@^F^@��Y|P��b^R^@^V��28ˤf1�xP^X^A�+�^@^@�V^Z��iΞ��9���B�^^@^Vׇ�A�A��6^X^B,r^Q��h�x��>�Ƿ�l���^P�^]�^N� Da��\]�@MzР�^[�g�=^N^@`^@^@^@`^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F��q�&^E^@^@E^P^@L
+�@^@@^F^A^]�Y|P��b^R^@^V��28��f1�xP^X^A�+�^@^@3_�1��^[9��q��<F ^G��Y^H��ڇ^^uU�de�_^U*�^[�g=F^N^@h^@^@^@h^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F��q�&^E^@^@E^P^@T
+�@^@@^F^A^T�Y|P��b^R^@^V��28�^Lf1�xP^X^A�+�^@^@��Z~T����^?�^E�q^Z.e[1k��O��^Z^SQ3�V�XA^N�^_\��Q^Xd��^[�gsF^N^@p^@^@^@p^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F��q�&^E^@^@E^P^@\
+�@^@@^F^A^K�Y|P��b^R^@^V��28�8f1�xP^X^A�+�^@^@���D^^�5m`i���^Y��4|�Ǯ����5����\�g��4\�^W��})�F^@��ͣ�Q�^[�g�F^N^@�^@^@^@�^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F��q�&^E^@^@E^P^@t
+�@^@@^F^@��Y|P��b^R^@^V��28�lf1�xP^X^A�+�^@^@�8%h*����o!=륛�^K�U@��}^FSN��+��^���y>`P�|d^O�H>��;����LJ������|=�^\�!ϱӁ^P^S����^[�g�F^N^@�^@^@^@�^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F��q�&^E^@^@E^P^@l
+�@^@@^F^@��Y|P��b^R^@^V��28̸f1�xP^X^A�+�^@^@�m^W���^D�]$^@/MA�¼���������^P�I��,��x$}�]W���~�}��AeZ$^���b^_�P��ՠ��UA�^[�g�F^N^@`^@^@^@`^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F��q�&^E^@^@E^P^@L
+�@^@@^F^A^X�Y|P��b^R^@^V��28��f1�xP^X^A�+�^@^@�:���y��^H��5|�G�mQ�� �^]a���^Z�o�B��Y��^[�g�M^N^@B^@^@^@B^@^@^@^H^@^@^@^@^@^@^B^@^A^@^F�^@^@^@^A^A^@^@E^@^@(�    @^@8^Fk<��b^R�Y|P��^@^Vf1�x28�^LP^P^D^@�r^@^@^@^@^@^@^@^@�^[�gLT^N^@B^@^@^@B^@^@^@^H^@^@^@^@^@^@^B^@^A^@^F�^@^>
+@^@8^Fk;��b^R�Y|P��^@^Vf1�x28��P^P^D^E�}^@^@^@^@^@^@^@^@�^[�gMT^N^@B^@^@^@B^@^@^@^H^@^@^@^@^@^@^B^@^A^@^F�^@^@^@^A^A^@^@E^@^@(�^K@^@8^Fk:��b^R�Y|P��^@^Vf1�x28� P^P^D^E�Y^@^@^@^@^@^@^@^@�^[�gO^A^@^@�^D^@^@�^D^@^@^H^@^@^@^@^@^@^B^@^A^D^F��q�&^E^@^@E^@^D�n^L@^@@^FѴ�Y|P�\^@>
+��B�|
+P�^@^@^DT
+^T�a0�\F1aǲ�f�Xy�^@^@^A&curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,sntrup761x25519-sha512@openssh.com,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hel>
+^\�
+�K��^^�^[�g7^L^A^@^X^D^@^@^X^D^@^@^H^@^@^@^@^@^@^B^@^A^@^F�^@^@^@^A^A^@^@E^@^D^D��@^@4^F^R^S�۸��Y|P�H^@^Vl��^P?��&�^X^A�+}^@^@^A^A^H
+^\�
+�K��^^^@^@^C�^F^Te��in~I.�R"�� �^@^@^A(curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group18-sha512,diffie-hellman-group16-sha512,diffie-hellman-group-exchange-sha256,diffie-hellman-group14-sha256,>
+K���^\�
+�^@^@^DT
+^T�Y�*cP��AW���D^BZ^@^@^A&curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,sntrup761x25519-sha512@openssh.com,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-h>
+K���^\�
+��^[�gW�^C^@H^@^@^@H^@^@^@^H^@^@^@^@^@^@^B^@^A^@^F�^@^@^@^A^A^@^@E^@^@4��@^@4^F^U��۸��Y|P�H^@^Vl���?��~�^P^A��^D^@^@^A^A^H
+^\�^K�K����^[�g��^C^@x^@^@^@x^@^@^@^H^@^@^@^@^@^@^B^@^A^@^F�^@^@^@^A^A^@^@E^@^@d��@^@4^F^U��۸��Y|P�H^@^Vl���?��~�^X^A�<K^@^@^A^A^H
+^\�^K�K���^@^@^@,^F^^^@^@^@ �ɻXJ^^�u�(S������^W�=s�b^F�#^@�~
+|l^@^@^@^@^@^@�^[�g��^C^@H^@^@^@H^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F��q�&^E^@^@E^@^@4+�@^@@^F�^T�Y|P�۸�^@^V�H?��~l��^P�^P^A��:^@^@^A^A^H
+K��u^\�^K��^[�gT^Y^D^@\^B^@^@\^B^@^@^H^@^@^@^@^@^@^B^@^A^D^F��q�&^E^@^@E^@^BH+�@^@@^F}��Y|P�۸�^@^V�H?��~l��^P�^X^A��N^@^@^A^A^H
+K��|^\�^K�^@^@^@�^H^_^@^@^@3^@^@^@^Kssh-ed25519^@^@^@ T�A�p��:S~�g�
+���Ap^N^_��^B�J�ҧ^N^S0^@^@^@ +����^D��^C�~N�3�^\E�>�^U!W�^PH��[^^<=^@^@^@S^@^@^@^Kssh-ed25519^@^@^@@���z�K1��^\%^?8�^F����'i    ���^@^^7��#\�r
+N^EI�i��\*��,^Qy1^C�w�
+���H�^K^@^@^@^@^@^@^@^@^@^@^@^L
+^U^@^@^@^@^@^@^@^@^@^@^@^@^A0�^F^^��W��>x�O.#��^T��^B� ^W|L     ^Oc�Gߗ^^��^^^P��^C�������=֤�;t^Dmnz/S��vۃf����~P���
+U�^O�d�^RS��/`��E�z��#�NW^B���:�9^L���8o~^ZW^K^S�c�!�f;☂�2�{iie��^O�0_
+��a�^CW��s^G-�^E
+}䧦2�b;�^\��e^E^]^n^Or4B��^D^^�Q�ͮ^Vʁ���?:���^T��<Բ��N^R����83��`ĥS��^P�H���_pk6ߍ��^A��
+TB�]Ó��y^H��2ښF^N^\�G~D>H���=�^Q78q^H�C9[�����
+�[      �LA^\�"^P�^X�-�s^X�
+�<W~1^[��sT�����AY2�^[�gNb^F^@H^@^@^@H^@^@^@^H^@^@^@^@^@^@^B^@^A^@^F�^@^@^@^A^A^@^@E^@^@4��@^@4^F^U��۸��Y|P�H^@^Vl��^P?�ג�^P^A��Y^@^@^A^A^H
+^\�^LAK��|�^[�g^Ac^F^@X^@^@^@X^@^@^@^H^@^@^@^@^@^@^B^@^A^@^F�^@^@^@^A^A^@^@E^@^@D��@^@4^F^UϺ۸��Y|P�H^@^Vl��^P?�ג�^X^A�� ^@^@^A^A^H
+^\�^LAK��|^@^@^@^L
+^U^@^@^@^@^@^@^@^@^@^@�^[�g�^E^G^@H^@^@^@H^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F��q�&^E^@^@E^@^@4+�@^@@^F�^R�Y|P�۸�^@^V�H?�גl�� �^P^A��:^@^@^A^A^H
+K��<^\�^LA�^[�g^LO      ^@|^@^@^@|^@^@^@^H^@^@^@^@^@^@^B^@^A^@^F�^@^@^@^A^A^@^@E^@^@h��@^@4^F^U��۸��Y|P�H^@^Vl�� ?�ג�^X^A�tH^@^@^A^A^H
+^\�
+^AK��<^@^@^@ 6MyF^B����f��<^[��^K��c
+=��^H^H�^B�^RAϢa^D�5�^L�^T��,}���^[�g?O ^@H^@^@^@H^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F��q�&^E^@^@E^@^@4+�@^@@^F�^Q�Y|P�۸�^@^V�H?�גl��T�^P^A��:^@^@^A^A^H
+K���^\�
+^A�^[�g�O       ^@|^@^@^@|^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F��q�&^E^@^@E^@^@h+�@^@@^F^?ܟY|P�۸�^@^V�H?�גl��T�^X^A��n^@^@^A^A^H
+K���^\�
+^A^@^@^@ b�B^Y�i���# �j��Q�1+�cO��
+�d�P�^Y�L�EM����^T=����}��^[�g@�        ^@�^D^@^@�^D^@^@^H^@^@^@^@^@^@^B^@^A^D^F��q�&^E^@^@E^@^D�n
+@^@@^Fѳ�Y|P�\^@�^@^V7b ^S8SD�^[^K�^X^A��)^@^@^A^A^H
+��EX|
+P�^@^@^DT
+^T�a0�\F1aǲ�f�Xy�^@^@^A&curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,sntrup761x25519-sha512@openssh.com,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hel>
+�^Kj�O��^\^@^@^@ G^A��tX��&"�n^^^@`O�������^D�yk�&�g�^A^])�Q�Ga���&�z^]��^[�g ^K^@�^@^@^@�^@^@^@^H^@^@^@^@^@^@^B^@^A^@^F�^@^@^@^A^A^@^@E^@^@���@^@4^F^U��۸��Y|P�H^@^Vl��T?��ƀ^X^A�s�^@^@^A^A^H
+^\�
+�K���^@^@^@@��u-YZ�����î�{������о��/���#�^KK\��CP>X����d��ѓp^F�3Oʶ^GUק��P�O���^F��*�W &�^G��^[�gP6^L^@H^@^@^@H^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F��q�&^E^@^@E^@^@4+�@^@@^F�^O�Y|P�۸�^@^V�H?���l�Ш�^P^A��:^@^@^A^A^H
+K���^\�
+��^[�gZ�
+^@H^@^@^@H^@^@^@^H^@^@^@^@^@^@^B^@^A^@^F�^@^@^@^A^A^@^@E^@^@4x�@^@(^FY��"���Y|P��^@^V���^D�J^B��^Q^A�wd^@^@^A^A^H
+O��^?�^Kj��^[�g �
+^@H^@^@^@H^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F��q�&^E^@^@E^@^@49j@^@@^F�ݟY|P�"��^@^V���J^B����^E�^Q^A���^@^@^A^A^H
+�^Kk�O��^?�^[�g�:^F^@H^@^@^@H^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F��q�&^E^@^@E^@^@49k@^@@^F�ܟY|P�"��^@^V���J^B����^E�^Q^A���^@^@^A^A^H
+�^Km�O��^?�^[�g<�       ^@H^@^@^@H^@^@^@^H^@^@^@^@^@^@^B^@^A^@^F�^@^@^@^A^A^@^@E^@^@4^@^@@^@(^F�G�"���Y|P��^@^V���^E�J^B��^P^A�s~^@^@^A^A^H
+O��i�^Kk��^[�g�#
+^@|^@^@^@|^@^@^@^H^@^@^@^@^@^@^B^@^A^D^F��q�&^E^@^@E^@^@h�u@^@@^F�şY|Pv�f�^@^V��"�7Tc�-��^X^A���^@^@^A^A^H
+�-��;���^@^@^@ `�����X����Ff��76��^?n^[�F�(J[��^Tt>��R�^X�"��^@^@_[�F�^[�g^H�
+^@�^D^@^@�^D^@^@^H^@^@^@^@^@^@^B^@^A^D^F��q�&^E^@^@E^@^D�n^N@^@@^FѲ�Y|P�\^@�^@^V7b ^S8SD�^[^K�^X^A��)^@^@^A^A^H
+��J8|
+P�^@^@^DT
+^T�a0�\F1aǲ�f�Xy�^@^@^A&curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,sntrup761x25519-sha512@openssh.com,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hel>
